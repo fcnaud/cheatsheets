@@ -8,5 +8,4 @@ docsify init path
 docsify serve path
 ```
 
-* [docsify-cli](https://github.com/docsifyjs/docsify-cli)
-
+- [docsify-cli](https://github.com/docsifyjs/docsify-cli)
