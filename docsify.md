@@ -1,5 +1,13 @@
 # docsify
 
+## 安装
+
+```shell
+npm i docsify-cli -g
+```
+
+## 使用
+
 ```shell
 # 初始化
 docsify init path
