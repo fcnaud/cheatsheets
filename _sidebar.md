@@ -1,4 +1,6 @@
 - [Home](/)
+- Langage
+  - [Fish](fish.md)
 - Tools
   - [Docsify](docsify.md)
   - [Sqlite3](sqlite3.md)
