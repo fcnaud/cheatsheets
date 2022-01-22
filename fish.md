@@ -30,6 +30,8 @@ set -e name             # 删除环境变量
 
 # e.g.
 set -e http_proxy
+
+set PATH /new/path $PATH # 设置 Path
 ```
 
 ### 设置 alias
