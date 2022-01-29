@@ -9,3 +9,4 @@
   - [WSL](wsl.md)
   - [Unity](unity.md)
   - [Package Manager](packagemanager.md)
+- [Thanks](thanks.md)
