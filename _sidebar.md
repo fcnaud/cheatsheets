@@ -7,3 +7,4 @@
   - [TiddlyWiki](tiddlywiki.md)
   - [WSL](wsl.md)
   - [Unity](unity.md)
+  - [Package Manager](packagemanager.md)
