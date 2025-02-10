@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  },
+  "scripts": {
+    "start": "docsify serve ."
+  }
+}

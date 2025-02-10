@@ -1,1 +1,1 @@
-docsify serve .
+npm run start
