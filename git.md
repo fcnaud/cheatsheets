@@ -1,5 +1,15 @@
 # git
 
+## commit
+
+```shell
+# 修改提交
+git commit --amend 
+
+# 修改提交时间
+git commit --amend --date="$(date -R)"
+```
+
 ## config
 
 ### 换行

@@ -7,6 +7,7 @@
   - [Sqlite3](sqlite3.md)
   - [TiddlyWiki](tiddlywiki.md)
   - [WSL](wsl.md)
+  - [awk](awk.md)
   - [Unity](unity.md)
   - [Package Manager](packagemanager.md)
 - [Thanks](thanks.md)
